@@ -1,6 +1,6 @@
 package br.com.alura.teste
 
-fun testeComparaValoresIf(){
+fun testeComparacaoValoresIf(){
     val idade1 = 25
     val idade2 = 19
     val idade3 = 33
