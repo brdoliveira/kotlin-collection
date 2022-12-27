@@ -1,6 +1,6 @@
 package br.com.alura.teste
 
-fun testeComparaValoresLoop(){
+fun testeComparacaoValoresLoop(){
     val idades: IntArray = intArrayOf(25, 19, 33, 20, 55, 40)
 
     var maiorIdade = Int.MIN_VALUE
