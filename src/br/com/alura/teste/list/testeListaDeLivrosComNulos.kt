@@ -1,4 +1,7 @@
 package br.com.alura.teste.list
 
-class testeListaDeLivrosComNulos {
+import br.com.alura.utils.imprimeComMarcadores
+
+fun testeListaDeLivrosComNulos(){
+    listaLivrosComNulos.imprimeComMarcadores()
 }
