@@ -1,5 +1,3 @@
 package br.com.alura
 
-fun main() {
-
-}
+fun main() {}
