@@ -1,4 +1,3 @@
 package br.com.alura.modelo
 
-class Pedido {
-}
+data class Pedido(val numero: Int, val valor: Double)
