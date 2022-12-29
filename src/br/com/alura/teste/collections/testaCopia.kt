@@ -1,4 +1,4 @@
-package br.com.alura.teste.array
+package br.com.alura.teste.collections
 
 import br.com.alura.modelo.BancoDeNomes
 
